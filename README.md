@@ -4,7 +4,7 @@
 
 running offline
 
-download [all.zip](???) ~ 31.2 mb
+download [all.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/all.zip) ~ 31.2 mb
 
 ![cover](https://github.com/user-attachments/assets/c1cd1f69-cd99-4cd6-855e-e70f8a5ff032)
 
