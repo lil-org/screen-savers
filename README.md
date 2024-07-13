@@ -79,7 +79,7 @@ download [all.zip](https://github.com/lil-org/screensavers/releases/download/1.0
 ### [Push.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Push.zip) — Rafaël Rozendaal
 ![Push by Rafaël Rozendaal](https://github.com/user-attachments/assets/919d191f-1dfa-49a4-9163-8bf5fca91daf)
 
-### [Polychrome.Music.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Polychrome.Music.zip) — Rafaël Rozendaal & Danny Wolfers (Legowelt)
+### [Polychrome.Music.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Polychrome.Music.zip) — Rafaël Rozendaal & Danny Wolfers
 ![Polychrome Music by Rafaël Rozendaal   Danny Wolfers (Legowelt)](https://github.com/user-attachments/assets/fa803800-0047-4de6-b7ef-99129b4fd264)
 
 ### [Passing.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Passing.zip) — Rafaël Rozendaal
