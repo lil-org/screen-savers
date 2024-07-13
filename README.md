@@ -2,7 +2,7 @@
 
 75 artblocks screensavers!
 
-generating offline
+running offline
 
 download [all.zip](???) ~ 31.2 mb
 
