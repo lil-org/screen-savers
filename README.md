@@ -2,11 +2,11 @@
 
 75 artblocks screensavers!
 
-running offline
+generating offline on-demand
 
 download [all.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/all.zip) ~ 31.2 mb
 
-![cover](https://github.com/user-attachments/assets/c1cd1f69-cd99-4cd6-855e-e70f8a5ff032)
+![cover](https://github.com/user-attachments/assets/364643fd-eeda-49e1-8b11-a927e6974b22)
 
 # list of collections
 
