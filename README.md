@@ -4,7 +4,7 @@
 
 generating offline
 
-download [all.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/all.zip) ~ 55.7 mb
+download [all.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/all.zip) ~ 58.4 mb
 
 ![cover](https://github.com/user-attachments/assets/364643fd-eeda-49e1-8b11-a927e6974b22)
 
