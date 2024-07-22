@@ -235,53 +235,145 @@ download [all.zip](https://github.com/lil-org/screensavers/releases/download/1.0
 ### [slash.slash.slash.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/slash.slash.slash.zip) — Snowfro
 ![/// by Snowfro](https://github.com/user-attachments/assets/97949038-0988-4967-8758-3477d1f8e4fc)
 
-### wip more collections
+### [mono.no.aware.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/mono.no.aware.zip) — ixnayokay
 ![mono no aware by ixnayokay](https://github.com/user-attachments/assets/0d0a158a-ebcf-4e60-b8af-20a011d08c0c)
+
+### [Memories.of.Digital.Data.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Memories.of.Digital.Data.zip) — Kazuhiro Tanimoto
 ![Memories of Digital Data by Kazuhiro Tanimoto](https://github.com/user-attachments/assets/72572b62-0af7-4f76-a2af-33fd7328fd16)
+
+### [Light.Beams.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Light.Beams.zip) — Jason Ting
 ![Light Beams by Jason Ting](https://github.com/user-attachments/assets/fc671b09-14f7-4d0f-b657-671f17d16a31)
+
+### [Kaleidoscope.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Kaleidoscope.zip) — Loren Bednar
 ![Kaleidoscope by Loren Bednar](https://github.com/user-attachments/assets/1f157d67-d529-404b-abc5-80fd0f81c2c6)
+
+### [JPEG.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/JPEG.zip) — Jan Robert Leegte
 ![JPEG by Jan Robert Leegte](https://github.com/user-attachments/assets/54ae3d31-db04-4dde-9b7e-aedb142f2bca)
+
+### [JaggedMemories.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/JaggedMemories.zip) — Shunsuke Takawo
 ![JaggedMemories by Shunsuke Takawo](https://github.com/user-attachments/assets/ff3a450d-160f-4a13-9f50-f4439a2f8eb7)
+
+### [Ingress.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Ingress.zip) — Paweł Dudko
 ![Ingress by Paweł Dudko](https://github.com/user-attachments/assets/ec3cde94-076d-4d76-8144-9f7fd272a5db)
+
+### [Imposter.Syndrome.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Imposter.Syndrome.zip) — ippsketch
 ![Imposter Syndrome by ippsketch](https://github.com/user-attachments/assets/b8492563-c6a4-475c-ac3e-4ad2894ee6a4)
+
+### [Gizmobotz.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Gizmobotz.zip) — Mark Cotton
 ![Gizmobotz by Mark Cotton](https://github.com/user-attachments/assets/a8586a4c-caf8-4129-900c-d62929798fb5)
+
+### [FULL_SPECTRUM.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/FULL_SPECTRUM.zip) — Lars Wander
 ![FULL_SPECTRUM by Lars Wander](https://github.com/user-attachments/assets/5b82fe46-57ce-47b3-8d53-805b4136440e)
+
+### [Frammenti.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Frammenti.zip) — Stefano Contiero
 ![Frammenti by Stefano Contiero](https://github.com/user-attachments/assets/934e0cb0-8aaf-4beb-bb4b-62ca5163c7d2)
+
+### [Fragmented.Perception.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Fragmented.Perception.zip) — Motus Art
 ![Fragmented Perception by Motus Art](https://github.com/user-attachments/assets/f8e5b8ce-95ba-4ee6-8fbf-59cfb41bc33f)
+
+### [FOCUS.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/FOCUS.zip) — Matto
 ![FOCUS by Matto](https://github.com/user-attachments/assets/af97b4dd-f1a0-4ac4-81f0-81d869f04544)
+
+### [Exstasis.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Exstasis.zip) — Grant Oesterling
 ![Exstasis by Grant Oesterling](https://github.com/user-attachments/assets/fed8ff2b-0da9-451a-bba5-8234f2ffe631)
+
+### [Essenza.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Essenza.zip) — Stefano Contiero
 ![Essenza by Stefano Contiero](https://github.com/user-attachments/assets/42408305-0e6e-426f-9776-368a25c119dd)
+
+### [Divergence.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Divergence.zip) — Loren Bednar
 ![Divergence by Loren Bednar](https://github.com/user-attachments/assets/df5fdbfa-31b2-4df0-9ad6-dda47dc48c64)
+
+### [Divenire.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Divenire.zip) — Emanuele Pasin
 ![Divenire by Emanuele Pasin](https://github.com/user-attachments/assets/50a5f4a8-b19f-4bf7-8e18-7a9694f072fa)
+
+### [Diatom.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Diatom.zip) — Joshua Schachter
 ![Diatom by Joshua Schachter](https://github.com/user-attachments/assets/751bf5f8-c334-4866-9eff-c4b95a44eb61)
+
+### [Democracity.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Democracity.zip) — Generative Artworks
 ![Democracity by Generative Artworks](https://github.com/user-attachments/assets/2a9c10d0-6bcd-487b-9d7e-26a236352a52)
+
+### [Cosmic.Reef.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Cosmic.Reef.zip) — Leo Villareal
 ![Cosmic Reef by Leo Villareal](https://github.com/user-attachments/assets/e3a64b9d-4f1e-4604-a0d4-67e65e3252ef)
+
+### [Contractions.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Contractions.zip) — Loie Hollowell
 ![Contractions by Loie Hollowell](https://github.com/user-attachments/assets/5e8661f0-9550-4959-873b-56801868a85f)
+
+### [Chromie.Squiggle.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Chromie.Squiggle.zip) — Snowfro
 ![Chromie Squiggle by Snowfro](https://github.com/user-attachments/assets/6fa72137-77f4-444a-937b-d30dc5cfcacf)
+
+### [CENTURY.2052.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/CENTURY.2052.zip) — Casey REAS
 ![CENTURY 2052 by Casey REAS](https://github.com/user-attachments/assets/887bfdea-87dd-4cec-ab78-a32e68f77397)
+
+### [Cage.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Cage.zip) — John Provencher
 ![Cage by John Provencher](https://github.com/user-attachments/assets/81288474-335e-4f22-aae9-61a97a85821b)
+
+### [Aurora.IV.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Aurora.IV.zip) — ge1doot
 ![Aurora IV by ge1doot](https://github.com/user-attachments/assets/2246c916-379c-44aa-a138-ad764213c3c2)
-![Assemblage by SAB   K2xL](https://github.com/user-attachments/assets/aa6f488c-9980-4212-a614-17de842f3b50)
+
+### [Assemblage.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Assemblage.zip) — SAB + K2xL
+![Assemblage by SAB + K2xL](https://github.com/user-attachments/assets/aa6f488c-9980-4212-a614-17de842f3b50)
+
+### [Antennas.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Antennas.zip) — gcrll
 ![Antennas by gcrll](https://github.com/user-attachments/assets/15300266-a89f-4c9c-9dc2-b88d43ead0db)
+
+### [a.heart.and.a.soul.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/a.heart.and.a.soul.zip) — Roman Janajev
 ![a heart and a soul by Roman Janajev](https://github.com/user-attachments/assets/2b483757-4d25-4828-b02e-9ca361a36ef8)
+
+### [923.EMPTY.ROOMS.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/923.EMPTY.ROOMS.zip) — Casey REAS
 ![923 EMPTY ROOMS by Casey REAS](https://github.com/user-attachments/assets/1328f57e-c57f-4e33-82f2-1c1c7c07f3f1)
+
+### [7.Factorial.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/7.Factorial.zip) — Lars Wander
 ![7 Factorial by Lars Wander](https://github.com/user-attachments/assets/3af28b3e-ea79-4c37-b53e-9431b5da543a)
+
+### [1.+.1.=.3.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/1.+.1.3.zip) — Stefano Contiero
 ![1 + 1 = 3 by Stefano Contiero](https://github.com/user-attachments/assets/d2e719eb-1097-48be-bc96-8ba69ea9aed0)
+
+### [VOXEL.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/VOX.L.zip) — JEANVASCRIPT
 ![VOXEL by JEANVASCRIPT](https://github.com/user-attachments/assets/af675f95-97e9-4094-8f52-c20aba8b52d9)
+
+### [variaciones.del.yo.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/variaciones.del.yo.zip) — Marcelo Soria-Rodríguez
 ![variaciones del yo by Marcelo Soria-Rodríguez](https://github.com/user-attachments/assets/22d72a01-0802-4e5e-993f-211a6c540893)
+
+### [Two.Mathematicians.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Two.Mathematicians.zip) — BY MA
 ![Two Mathematicians by BY MA](https://github.com/user-attachments/assets/041d0bed-7f8b-43c4-be49-212b6aace28b)
+
+### [Tunel.Dimensional.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Tunel.Dimensional.zip) — Autonomoses
 ![Tunel Dimensional by Autonomoses](https://github.com/user-attachments/assets/bf78686f-c702-47df-95c7-9e5e715f460d)
+
+### [Time.Atlas.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Time.Atlas.zip) — Paolo Tonon
 ![Time Atlas by Paolo Tonon](https://github.com/user-attachments/assets/4218aed7-e5ef-49ed-8c35-4cb13d65148b)
+
+### [The.Field.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/The.Field.zip) — Beervangeer
 ![The Field by Beervangeer](https://github.com/user-attachments/assets/8c98bb81-4b8f-4193-b6eb-6eeca14f5e09)
+
+### [Tangled.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Tangled.zip) — Superblob
 ![Tangled by Superblob](https://github.com/user-attachments/assets/e9d6cdde-43ac-45f0-85f6-d584491c0204)
+
+### [Subscapes.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Subscapes.zip) — Matt DesLauriers
 ![Subscapes by Matt DesLauriers](https://github.com/user-attachments/assets/ff0d3890-1f65-44f7-ac5c-f6ccc2e41de9)
+
+### [R3sonance.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/R3sonance.zip) — ge1doot
 ![R3sonance by ge1doot](https://github.com/user-attachments/assets/a0724128-635e-4d0a-bf50-f4e655240156)
+
+### [pseudomods.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/pseudomods.zip) — erin bee
 ![pseudomods by erin bee](https://github.com/user-attachments/assets/c1d4f2f3-2d4e-4b00-9a98-e7b184637d58)
+
+### [Placement.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Placement.zip) — Cooper Jamieson
 ![Placement by Cooper Jamieson](https://github.com/user-attachments/assets/1b5451b6-fc58-4f78-a045-a80b6767cb0b)
+
+### [Orthogone.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Orthogone.zip) — Pandelune
 ![Orthogone by Pandelune](https://github.com/user-attachments/assets/1d612a9d-8c09-4966-a47c-06333af90205)
+
+### [Organized.Disruption.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Organized.Disruption.zip) — Joshua Davis - PrayStation
 ![Organized Disruption by Joshua Davis - PrayStation](https://github.com/user-attachments/assets/d0903c6c-6b3a-407b-a69c-5df3fae67aee)
+
+### [One.More.Day.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/One.More.Day.zip) — Aaron Penne
 ![One More Day by Aaron Penne](https://github.com/user-attachments/assets/32e26b6a-c454-4c83-89b9-b74acad15564)
+
+### [Neophyte.MMXXII.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Neophyte.MMXXII.zip) — Sterling Crispin
 ![Neophyte MMXXII by Sterling Crispin](https://github.com/user-attachments/assets/4c0aff42-977e-44b0-bb7a-0742a156ffec)
+
+### [Muttenz.zip](https://github.com/lil-org/screensavers/releases/download/1.0.0/Muttenz.zip) — wuwa
 ![Muttenz by wuwa](https://github.com/user-attachments/assets/3cd1301c-6c45-4b42-93c6-86a92dcd1e67)
 
 # credits
