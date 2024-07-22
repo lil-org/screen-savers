@@ -1,6 +1,6 @@
-# screensavers
+# screen-savers
 
-122 artblocks screensavers!
+122 artblocks screen savers!
 
 generating offline
 
